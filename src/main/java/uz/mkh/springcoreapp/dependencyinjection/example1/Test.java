@@ -1,4 +1,4 @@
-package uz.mkh.springcoreapp.example1;
+package uz.mkh.springcoreapp.dependencyinjection.example1;
 
 import org.springframework.beans.factory.BeanFactory;
 import org.springframework.beans.factory.xml.XmlBeanFactory;

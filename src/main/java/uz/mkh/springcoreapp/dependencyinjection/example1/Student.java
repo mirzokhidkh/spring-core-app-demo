@@ -1,4 +1,4 @@
-package uz.mkh.springcoreapp.example1;
+package uz.mkh.springcoreapp.dependencyinjection.example1;
 
 public class Student {
     private String name;
